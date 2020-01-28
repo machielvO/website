@@ -3,6 +3,7 @@
    color: #00979b;
    font-size: 24px;
    
+   
 }   
 
 .mat-grid-tile {
@@ -14,7 +15,7 @@
   background-color: white;
   padding: 0;
   margin-left: 160px;
-  margin-top: 14;
+  margin-top: 14px;
   
  
 }
@@ -39,7 +40,7 @@
 
 .contactbanner .btn {
    position: absolute;
-   top: 228%;
+   top: 224%;
    left: 50%;
    transform: translate(-50%, -50%);
    -ms-transform: translate(-50%, -50%);
@@ -55,4 +56,32 @@
 
 .contactbanner .btn:hover {
    background-color:#d48618;
+ }
+
+ .headerverzekeraars{
+   margin-top: -350px;
+   text-align: center;
+   color: #00979b;
+   font-size: 24px;
+   margin-bottom: 60px;
+   
+}  
+
+.Verzekeraarscontainer{
+   text-align: center;
+   margin-left: 200px;
+   margin-right: 200px;
+   padding-bottom: 150px;
+
+}
+
+table {
+   width: 50%;
+   margin-left: 350px;
+   th{background-color:#00979b};
+   tr{
+   background-color: white;
+   color: blacks; 
+   }
+
  }
